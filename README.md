@@ -64,7 +64,12 @@ This project demonstrates readiness for client projects involving:
 
 ---
 
+## 📄 License
+
+MIT License
+
+---
+
 ## 📬 Contact
 
 For freelance inquiries, please reach out via [Upwork Profile](https://www.upwork.com/freelancers/~012558bab6232e8e65)
-
